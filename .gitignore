@@ -1,8 +1,8 @@
-/node_modules
-/public/hot
-/public/storage
-/public/css
-/public/js
+# /node_modules
+# /public/hot
+# /public/storage
+# /public/css
+# /public/js
 /storage/*.key
 /vendor
 .env
@@ -11,13 +11,13 @@
 docker-compose.override.yml
 Homestead.json
 Homestead.yaml
-npm-debug.log
-yarn-error.log
+# npm-debug.log
+# yarn-error.log
 /.idea
 /.vscode
 .idea
-!/public/assets/images
-/public/uploads
-/public/js/app.js
-/public/mix-manifest.json
+# !/public/assets/images
+# /public/uploads
+# /public/js/app.js
+# /public/mix-manifest.json
 _ide_helper.php
